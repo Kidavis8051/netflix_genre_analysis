@@ -18,7 +18,7 @@ Using real-world data from Netflix’s global library, I applied Python and data
 ## 🛠 Tools Used  
 - **Python** (Pandas, Matplotlib)  
 - **Jupyter Notebook**  
-- **Tableau** (optional for alternative visualizations)  
+- **Excel** (optional for alternative visualizations)  
 - GitHub (for project versioning & publishing)
 
 ---
@@ -43,14 +43,3 @@ Using real-world data from Netflix’s global library, I applied Python and data
 
 ## 🔍 Key Insight  
 > 📌 **"Dramas"** are the most common genre on Netflix, followed by **Comedies** and **Documentaries**. This insight reflects global content demand and user preferences on the platform.
-
----
-
-## 📈 Next Steps
-- Compare genre popularity over time (by release year)
-- Segment by content type (Movies vs. TV Shows)
-- Create Tableau dashboard for dynamic filtering
-
----
-
-## 🗂 Repo Structure
